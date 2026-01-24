@@ -1,0 +1,5 @@
+dataset,kernel,Accuracy,Time
+MNIST,poly,85.31%,9643.98 ms
+FashionMNIST,poly,81.66%,9952.56 ms
+MNIST,rbf,95.94%,9374.20 ms
+FashionMNIST,rbf,85.31%,9541.09 ms
